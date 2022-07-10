@@ -1,0 +1,9 @@
+com\mycompany\adaptersgbds\models\Firebird.class
+com\mycompany\adaptersgbds\client.class
+com\mycompany\adaptersgbds\interfaces\ConexaoBD.class
+com\mycompany\adaptersgbds\models\Paradox.class
+com\mycompany\adaptersgbds\User.class
+com\mycompany\adaptersgbds\UserUltimate.class
+com\mycompany\adaptersgbds\AdapterBD.class
+com\mycompany\adaptersgbds\models\MySQL.class
+com\mycompany\adaptersgbds\UserBasic.class
